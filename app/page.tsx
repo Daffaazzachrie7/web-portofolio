@@ -153,9 +153,9 @@ export default async function HomePage() {
   }
 
   const githubUrl =
-    process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/Daffazzachrie7";
+    process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/Daffaazzachrie7";
   const instagramUrl =
-    process.env.NEXT_PUBLIC_INSTAGRAM_URL || "https://instagram.com/daffaazzachrie";
+    process.env.NEXT_PUBLIC_INSTAGRAM_URL || "https://instagram.com/daffazzachrie";
   const linkedinUrl =
     process.env.NEXT_PUBLIC_LINKEDIN_URL ||
     "https://www.linkedin.com/in/daffa-mochammad-azzachrie";
