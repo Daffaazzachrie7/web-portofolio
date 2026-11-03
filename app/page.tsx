@@ -153,7 +153,7 @@ export default async function HomePage() {
   }
 
   const githubUrl =
-    process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/Daffaazzachrie7";
+    process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/Daffazzachrie7";
   const instagramUrl =
     process.env.NEXT_PUBLIC_INSTAGRAM_URL || "https://instagram.com/daffaazzachrie";
   const linkedinUrl =
